@@ -1,0 +1,26 @@
+{
+  "name": "search-from-unegui",
+  "version": "0.0.1",
+  "description": "For the people who wants to search advertisement from unegui.mn",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/enkhee-Osiris/search-from-unegui.git"
+  },
+  "keywords": [
+    "unegui.mn"
+  ],
+  "author": "enkhee-Osiris",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/enkhee-Osiris/search-from-unegui/issues"
+  },
+  "homepage": "https://github.com/enkhee-Osiris/search-from-unegui#readme",
+  "dependencies": {
+    "axios": "^0.19.2"
+  }
+}
